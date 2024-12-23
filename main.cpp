@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout<<"Prima linie de cod\n";
+    cout<<"Test\n";
 
     return 0;
 }
