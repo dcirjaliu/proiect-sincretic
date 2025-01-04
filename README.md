@@ -38,7 +38,8 @@ Proiectul a fost implementat folosind limbajul **C++**, iar algoritmul principal
 
 4. **Afisarea solutiei (Afisare)**
     - Functia **Afisare** marcheaza pozitiile reginelor pe tabla de sah folosind matricea **tabla_sah**. O valoare **1** indica prezenta unei regine, iar solutia este afisata pe ecran sub forma unei matrice 8x8. Dupa fiecare solutie, se afiseaza un separator.
-    - Exemplu de rulare (o tabla de sah) al functiei **Afisare** in **terminal**:![Exemplu de rulare](image.png)
+    - Exemplu de rulare (o tabla de sah) al functiei **Afisare** in **terminal**:
+    ![Exemplu de rulare](image.png)
 
 5. **Plasarea reginelor pe tabla (plaseazaRegine)**
     - Aceasta este functia principala care implementeaza algoritmul de backtracking. Functia: 
