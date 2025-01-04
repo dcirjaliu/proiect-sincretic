@@ -101,11 +101,16 @@ Proiectul a fost implementat folosind limbajul **C++**, iar algoritmul principal
 ## Exemple de Rulare
 
 ### Construirea imaginii docker
+```bash
 - docker build -t myapp .
+```
 
 ### Rularea containerului
+```bash
 - docker run myapp
+```
 
 ### Tragerea imaginii Docker din GitHub Container Registry
 ```bash
 - docker pull ghcr.io/dcirjaliu/proiect-sincretic/map-project:latest
+```
