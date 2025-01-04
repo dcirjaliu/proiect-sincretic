@@ -100,9 +100,11 @@ Proiectul a fost implementat folosind limbajul **C++**, iar algoritmul principal
 
 ## Exemple de Rulare
 
-### Rulare intr-un container Docker
-    - Construirea imaginii docker: docker build -t myapp .
-    - Rularea containerului: docker run myapp
+### Construirea imaginii docker
+docker build -t myapp .
+
+### Rularea containerului
+docker run myapp
 
 ### Tragerea imaginii Docker din GitHub Container Registry
-    - docker pull ghcr.io/dcirjaliu/proiect-sincretic/map-project:latest
+docker pull ghcr.io/dcirjaliu/proiect-sincretic/map-project:latest
