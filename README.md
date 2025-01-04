@@ -11,7 +11,7 @@ Scopul principal al proiectului a fost de a demonstra implementarea algoritmului
 
 ## Detalii de implementare
 
-Proiectul a fost implementat folosind limbajul **C++**, iar algoritmul pricipal este **backtracking**, care cauta solutii valide prin explorarea tuturor posibilitatilor de plasare a reginelor pe tabla de sah.
+Proiectul a fost implementat folosind limbajul **C++**, iar algoritmul principal este **backtracking**, care cauta solutii valide prin explorarea tuturor posibilitatilor de plasare a reginelor pe tabla de sah.
 
 ### Structura codului
 
@@ -93,3 +93,6 @@ Proiectul a fost implementat folosind limbajul **C++**, iar algoritmul pricipal 
 ### Rulare intr-un container Docker
     - Construirea imaginii docker: docker build -t myapp .
     - Rularea containerului: docker run myapp
+
+### Tragerea imaginii Docker din GitHub Container Registry
+    - docker pull ghcr.io/dcirjaliu/proiect-sincretic/map-project:latest
