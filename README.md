@@ -88,6 +88,16 @@ Proiectul a fost implementat folosind limbajul **C++**, iar algoritmul principal
 - **Control versiuni**:
     - **Git**
 
+## Bibliografie
+
+1. **Curs Tehnici de Programare** - Materiale oferite de Universitatea Politehnica Timisoara, 2023-2024. Rezolvarea **problemei celor N regine**.
+
+2. **Curs Metode Avansate de Programare** - Exemple si materiale despre **Dockerfile** si **CI/CD**. Universitatea Politehnica Timisoara, 2024-2025.
+
+3. **GitHub *.gitignore* Templates** - Exemple publice de fisiere **.gitignore**. Disponibile la: https://github.com/github/gitignore .
+
+4. **ChatGPT** - Asistenta pentru generarea si optimizarea fisierului **.gitignore**.
+
 ## Exemple de Rulare
 
 ### Rulare intr-un container Docker
