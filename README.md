@@ -4,7 +4,7 @@
 ## Motivarea si scopul proiectului
 
 ### Motivarea
-Acest proiect este realizat a fost realizat ca parte a cursului Metode Avansate de Programare, la Universitatea Politehnica Timisoara, specializarea Informatica.
+Acest proiect a fost realizat ca parte a cursului **Metode Avansate de Programare**, la Universitatea Politehnica Timisoara, specializarea Informatica.
 
 ### Scopul
 Scopul principal al proiectului a fost de a demonstra implementarea algoritmului pentru rezolvarea problemei celor **8 regine**. Aceasta este o problema clasica de algoritmica, ce implica gasirea tuturor pozitiilor valide pentru plasarea a 8 regine pe o tabla de sah, astfel incat niciuna sa nu se atace reciproc.
@@ -15,13 +15,13 @@ Proiectul a fost implementat folosind limbajul **C++**, iar algoritmul principal
 
 ### Structura codului
 
-- **main.cpp** - acest fisier contine implementarea algoritumului de backtracking pentru problema reginelor
+- **main.cpp** - acest fisier contine implementarea algoritmului de backtracking pentru problema reginelor
 
-- **Fisier .gitignore** - listeaza fisierele si directoarele care nu trebuie incluse
+- **Fisier .gitignore** - listeaza fisierele si alte artefacte de compilare care nu trebuie incluse
 
 - **Dockerfile** - descrie cum este construit mediul de rulare al aplicatiei intr-un container Docker (imaginea de baza utilizata si comenzile pentru compilare si rulare)
 
-- **Fiser .yml pentru CI/CD** - automatizeaza procesul de testare, build si deployment
+- **Fiser container-main.yml pentru CI/CD** - automatizeaza procesul de testare, build si deployment
 
 ### Explicatie Functionalitati
 
